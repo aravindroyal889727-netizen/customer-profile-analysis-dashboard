@@ -1,0 +1,14 @@
+customer_id,customer_name,city,country,total_sales
+1,aravind,puttaparthi,india,20000
+2,pradeep,puttaparthi,india,37000
+3,anand,anantapur,india,66000
+4,aravind,puttaparthi,usa,78000
+5,anand,hydrabad,usa,670000
+6,hari,hydrabad,usa,70000
+7,anand,hydrabad,australia,500000
+8,harsha,hydrabad,australia,20000
+9,agni,anantapur,australia,40000
+10,harish,anantapur,"new zealand",300000
+11,sadwika,puttaparthi,"new zealand",66600
+15,mohan,puttaparthi,france,55000
+20,sai,anantapur,france,79000
