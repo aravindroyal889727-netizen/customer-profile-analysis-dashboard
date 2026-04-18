@@ -21,3 +21,16 @@ This dashboard analyzes sales performance, customer behavior, and revenue trends
 ## 📁 Files
 - sales_dashboard.pbix
 - dataset.xlsx
+ 
+ # Cricket Analysis Dashboard
+This repository contains interactive reports and visualizations for cricket performance analysis. 
+It helps compare batters and bowlers based on runs, overs, wickets, and economy rates.
+## Features
+- 📊 Player performance comparison (runs, overs, wickets)
+- 📈 Trend analysis with line and bar charts
+- 🎯 KPI indicators for goals and targets
+- ⚡ Built with Power BI and Python (pandas)
+## Usage
+- Open the dashboard to explore batting and bowling statistics.
+- Filter by player names to view detailed comparisons.
+- Export visuals for presentations or reports.
